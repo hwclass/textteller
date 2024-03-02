@@ -1,0 +1,5 @@
+{
+  "name": "@hwclass/textteller",
+  "version": "1.0.0",
+  "exports": "./mod.ts"
+}
